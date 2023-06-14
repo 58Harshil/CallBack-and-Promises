@@ -13,6 +13,6 @@ console.log("Got a new promese");
 x.then(function f(){
     console.log("Promise Done");
 })
-console.log("End");
+//console.log("End");
 
 for(let i = 0; i<1000000;i++){}
